@@ -1,0 +1,2 @@
+# Robustness-of-Floquet-Topological-Time-Crystals-against-Two-Level-System-Defects-in-Circuit-QED
+Discrete time crystals (DTCs) represent a nonequilibrium phase of matter [1]–[3] characterized by spontaneous breaking of discrete time-translational symmetry under periodic driving. While Floquet topological phases offer a promising route to stabilizing DTC behavior, their persistence in realistic open quantum systems remains an open problem.
